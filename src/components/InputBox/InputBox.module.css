@@ -1,0 +1,20 @@
+.button_style{
+     background-color: #2980b9;
+     color: white;
+     font-weight: 800;
+     border: 0px;
+     border-radius: 0px 5px 5px 0px;
+     font-size: 1.5rem;
+     padding: 7px;
+     cursor: pointer;
+}
+
+.outer_div{
+    margin-bottom: 1.5rem;
+}
+.input_style{
+    font-size:1.5rem ;
+    padding: 8px;
+    border: 2px  solid  #2980b9;
+    border-radius: 5px 0px 0px 5px;
+}

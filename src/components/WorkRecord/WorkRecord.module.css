@@ -1,0 +1,24 @@
+.outer_div{
+    background-color: #96a5a6;
+    padding-left: 3%;
+    padding-right: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-radius: 10px;
+    align-items: center;
+    margin: 1rem 1.5rem;
+}
+
+.button_style{
+    background-color: #c0392b;
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+    border: 0px;
+    border-radius: 5px;
+    font-weight: 800;
+    padding: 8px;
+    cursor: pointer;
+    padding: 8px;
+}
